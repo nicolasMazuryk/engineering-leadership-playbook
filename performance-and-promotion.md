@@ -92,7 +92,7 @@ Every review ends with a development plan:
 - one person to learn from,
 - how we will know it worked.
 
-A long-term example from my own line: one engineer grew over 5.5 years and 12 review cycles from JavaScript developer to Senior Software Engineer and the account's blockchain specialist, through deliberate steps of scope rather than one jump.
+A long-term example from my own line: one engineer grew over 5.5 years and 12 review cycles from JavaScript developer to Senior Software Engineer and the team's blockchain specialist, through deliberate steps of scope rather than one jump.
 
 ## When it does not work
 

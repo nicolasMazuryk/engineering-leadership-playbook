@@ -10,7 +10,7 @@ A playbook for introducing an AI coding agent to engineering teams. It comes fro
 | PR throughput | **+40%** |
 | Adoption | Agents became part of daily development in both teams |
 
-`TODO(me)`: add the measurement window and how cycle time was defined (first commit to merge, or ticket start to done), so the numbers can be reproduced.
+Cycle time is measured from ticket start to done.
 
 ## Principles
 
@@ -89,13 +89,13 @@ A playbook for introducing an AI coding agent to engineering teams. It comes fro
 
 ## What I would do differently
 
-`TODO(me)`: add 2-3 honest lessons (for example: starting measurement earlier, or involving security sooner).
+- **Start measuring earlier.** Capture a clean cycle-time and throughput baseline before the pilot starts, so the effect of the agent can be separated from other changes.
 
 ## Metrics dashboard (suggested)
 
 | Metric | Why |
 |---|---|
-| Cycle time (first commit to merge) | Headline measure of flow |
+| Cycle time (ticket start to done) | Headline measure of flow |
 | PR throughput per engineer per week | Output, read together with quality |
 | Review time and queue length | Where the bottleneck moves |
 | Change failure rate / reverts | Quality guard |
